@@ -1,1 +1,1 @@
-# Struktury_Dannych
+# Struktury_Danych
