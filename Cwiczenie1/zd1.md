@@ -14,7 +14,7 @@ otrzymac_roznica_dni(i_miesiac, i_dzien) {
 	
 	else {
 		
-		return -1
+		return error
 	}
 	
 	return roznica_dni
