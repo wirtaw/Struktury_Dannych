@@ -9,7 +9,7 @@ int func (float a, int x){
 	float k = a*x;
 	printf("%0.1f\n", pow(k, 2));
 	a=a+0.5;
-	x=2+2;
+	x=x+2;
 	}
 
 }
