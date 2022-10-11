@@ -22,7 +22,7 @@ int main (){
 
 
 
-        printf("wprowadz %f\n", a * x[n] * x[n]);
+        printf("wynik %f\n", a * x[n] * x[n]);
 
 
         return 0;
