@@ -1,3 +1,7 @@
+Zadanie 1
+Pseudokod i udowodnienie ze jest częściowo poprawny
+
+```
 func factorial(n) {
 	
 	factorial = 1
@@ -12,3 +16,4 @@ func factorial(n) {
         return factorial
     }
 }
+```
