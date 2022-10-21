@@ -11,15 +11,12 @@ int main (){
         printf("%d", size);
 
         int n;
-        scanf("%d", &n);
-        if (n >= size){
-                printf("n > ilosc elementow w tablicy");
-                exit(1);
+        do{     printf("wprowadz n");
+                scanf("%d", &n);
         }
+        while (n >= size)
+        
         scanf("%lf", &a);
-
-
-
 
         printf("wynik %f\n", a * x[n] * x[n]);
 
