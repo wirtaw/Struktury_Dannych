@@ -1,3 +1,5 @@
+//Obliczyc funkcja y = ax^2 znaczenia, gdy a - stale, x jest wybierany z tablicy X(n), wyniki funckji zapisywac Y(n)
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -31,9 +33,7 @@ int main (){
 
         }
 
-
         printf("wynik %f\n", a * x[n] * x[n]);
-
 
         return 0;
 
