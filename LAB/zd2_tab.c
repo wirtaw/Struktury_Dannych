@@ -12,13 +12,11 @@ int main (){
 	scanf("%d",&x0);
 	printf("Wprowadz xn\n");
 	scanf("%d",&xn);
-	if (x0>xn || xn<0 ){
-		printf("x0 jest wieksze niz xn");
-		exit(0);
-	}
 	
-	printf("Wprowadz xh\n");
-	scanf("%d",&xh);
+	do{
+		printf("Wprowadz xh\n");
+		scanf("%d",&xh);
+	}while (x0>xn || xn<0 )
 	
 	for (x = x0; x <= xn; x=x+xh){
 	float k = a*pow(x, 2);
