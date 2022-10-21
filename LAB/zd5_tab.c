@@ -1,4 +1,4 @@
-//Obliczenie sumy, ilosci i mnozenia elementow tablicy.
+//Obliczenie sumy, ilosci i mnozenia elementow tablicy. 2022-10-11
 
 #include<stdio.h>
 #include<stdlib.h>
