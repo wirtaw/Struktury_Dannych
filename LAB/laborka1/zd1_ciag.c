@@ -17,8 +17,6 @@ int main (){
 	printf("%d\n", rand()%50);
 	}
 	
-	getch();
-	
 	return 0;
 }
 
