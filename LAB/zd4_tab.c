@@ -1,4 +1,4 @@
-//Obliczyc funkcja y = ax^2 znaczenia, gdy a - stale, x jest wybierany z tablicy X(n), wyniki funckji zapisywac Y(n)
+//Obliczyc funkcja y = ax^2 znaczenia, gdy a - stale, x jest wybierany z tablicy X(n), wyniki funckji zapisywac Y(n) 2022-10-11
 
 #include<stdio.h>
 #include<stdlib.h>
