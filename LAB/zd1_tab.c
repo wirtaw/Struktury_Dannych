@@ -6,8 +6,8 @@
 int func (float a, int x){
 	int i;
 	for (i = 0; i <= 3; i++){
-	float k = a*x;
-	printf("%0.1f\n", pow(k, 2));
+	float k = a* pow(x, 2);
+	printf("%0.1f\n",k);
 	a=a+0.5;
 	x=x+2;
 	}
