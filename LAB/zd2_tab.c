@@ -21,8 +21,8 @@ int main (){
 	scanf("%d",&xh);
 	
 	for (x = x0; x <= xn; x=x+xh){
-	float k = a*x;
-	printf("%d. ax^2 = %0.1f, x = %d, \n",i++, pow(k, 2), x);
+	float k = a*pow(x, 2);
+	printf("%d. ax^2 = %0.1f, x = %d, \n",i++, k, x);
 	}
 	return 0;
 
