@@ -11,7 +11,8 @@ int main (){
         printf("%d", size);
 
         int n;
-        do{     printf("wprowadz n");
+        do{     
+                printf("wprowadz n");
                 scanf("%d", &n);
         }
         while (n >= size)
