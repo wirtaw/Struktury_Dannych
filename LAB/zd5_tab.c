@@ -1,3 +1,5 @@
+//Obliczenie sumy, ilosci i mnozenia elementow tablicy.
+
 #include<stdio.h>
 #include<stdlib.h>
 
