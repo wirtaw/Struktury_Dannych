@@ -21,7 +21,6 @@ int main (){
 
         printf("wynik %f\n", a * x[n] * x[n]);
 
-
         return 0;
 
 }
