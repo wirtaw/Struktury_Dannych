@@ -1,0 +1,27 @@
+repo_name: wirtaw/Struktury_Dannych
+report_id: 35ac0826dfb18000e3e7630dec637e15
+repo_type: Public
+timestamp: '2023-11-11T19:46:57+00:00'
+requested_by: Edgy3ddy
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
